@@ -7,6 +7,9 @@
 I am an Electrical Engineer by proffession in the Telecomms Industry.I am passionate about Python Programming and Data Science.
 </p>
 
+
+![](https://komarev.com/ghpvc/?username=Mohau-00-01)
+
 <p align="center">
 <img height="300" src="Images\code.gif" />
 </p>
