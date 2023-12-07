@@ -3,10 +3,15 @@
 
 
 
-
+<p align="center">
 I am an Electrical Engineer by proffession in the Telecomms Industry.I am passionate about Python Programming and Data Science.
+</p>
 
-<h3>👨‍💻 Bio :</h3>
+<p align="center">
+<img height="300" src="Images\code.gif" />
+</p>
+
+
 
 - 🌱 I’m currently enrolled in the Udacity Data Science Nano Degree Programme and Udemy 100 days of Code.
   
@@ -16,10 +21,6 @@ I am an Electrical Engineer by proffession in the Telecomms Industry.I am passio
 - ⚡ Fun fact, I love comedy,theatere and watching football.
 
 
-
-<p align="center">
-<img src="Images\code.gif" />
-</p>
 
 
 <h3>Main Tech Stack:</h3>
