@@ -1,18 +1,17 @@
 <h1 align="center"> Hello World, I'm Mohau Masukela 👋</h1>
 
 
-
-
-<p align="center">
-I am an Electrical Engineer by proffession in the Telecomms Industry.I am passionate about Python Programming and Data Science.
-</p>
-
+<p>
 
 ![](https://komarev.com/ghpvc/?username=Mohau-00-01)
 
-<p align="center">
-<img height="300" src="Images\code.gif" />
+
 </p>
+
+
+<h4 align="center">
+I am an Electrical Engineer by proffession in the Telecomms Industry.I am passionate about Python Programming and Data Science.
+</h4>
 
 
 
@@ -32,6 +31,6 @@ I am an Electrical Engineer by proffession in the Telecomms Industry.I am passio
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,bootstrap,vscode,python,django,flask&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,html,css,bootstrap,vscode,python,django,sqlite,flask&perline=8" />
   </a>
 </p>
